@@ -9,6 +9,9 @@ This is a random password generator created by Evan Towlerton. It's purpose is t
 N/A
 
 ## Usage
+
+Link to the deployed application: 
+
 To use this application to generate a random password you must first establish the length of the password and what character types to include.
 To begin start by pressing the red generate button on the homescreen.
 
